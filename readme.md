@@ -1,7 +1,7 @@
 ## What is this?
 
 
-Apility.io is the API module. Now it only hosts Email and Domain Endpoints. Maybe I can development for all endpoints in the future.
+Apility.io is the API module. Now it only hosts IP and Domain Endpoints. Maybe I can development for all endpoints in the future.
 
 ## Usage
 
